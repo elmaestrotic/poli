@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/morfo/Animal.cpp
+Animal.h
+C:/Users/Asus/CLionProjects/morfo/Animal.h
+
+C:/Users/Asus/CLionProjects/morfo/Animal.h
+
+C:/Users/Asus/CLionProjects/morfo/Gato.cpp
+Gato.h
+C:/Users/Asus/CLionProjects/morfo/Gato.h
+
+C:/Users/Asus/CLionProjects/morfo/Gato.h
+iostream
+-
+Animal.h
+C:/Users/Asus/CLionProjects/morfo/Animal.h
+
+C:/Users/Asus/CLionProjects/morfo/Perro.cpp
+Perro.h
+C:/Users/Asus/CLionProjects/morfo/Perro.h
+
+C:/Users/Asus/CLionProjects/morfo/Perro.h
+iostream
+-
+Animal.h
+C:/Users/Asus/CLionProjects/morfo/Animal.h
+
+C:/Users/Asus/CLionProjects/morfo/main.cpp
+iostream
+-
+Animal.h
+C:/Users/Asus/CLionProjects/morfo/Animal.h
+Perro.h
+C:/Users/Asus/CLionProjects/morfo/Perro.h
+Gato.h
+C:/Users/Asus/CLionProjects/morfo/Gato.h
+
